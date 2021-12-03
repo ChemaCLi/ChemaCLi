@@ -3,7 +3,7 @@
 <img width="100%" height="80px" src="https://data.whicdn.com/images/344069665/original.gif"></img>
 
 <p align="center">
-  <a href="https://dev.to/chema">Dev.to</a>
+  <a href="https://dev.to/chema">Dev.to</a> |
   <a href="https://twitter.com/ChemaCLi">Twitter</a> |
   <a href="https://www.linkedin.com/in/jose-maria-chico-lopez-597b94150/">LinkedIn</a> |
   <a href="https://www.instagram.com/chema.cli/">Instagram</a>
