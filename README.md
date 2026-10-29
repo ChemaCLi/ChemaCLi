@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
-<img width="100%" height="80px" src="https://64.media.tumblr.com/88f24db117143f8562ec253b0e33dbad/tumblr_o8is2q9Q1u1s7z2cyo1_500.gif"></img>
+<img width="100%" height="100px" src="https://64.media.tumblr.com/88f24db117143f8562ec253b0e33dbad/tumblr_o8is2q9Q1u1s7z2cyo1_500.gif"></img>
 
 <p align="center">
   <a href="https://dev.to/chema">Dev.to</a> |
