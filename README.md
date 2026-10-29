@@ -4,18 +4,22 @@
 
 <p align="center">
   <a href="https://dev.to/chema">Dev.to</a> |
-  <a href="https://twitter.com/ChemaCLi">Twitter</a> |
   <a href="https://www.linkedin.com/in/jose-maria-chico-lopez-597b94150/">LinkedIn</a> |
-  <a href="https://www.instagram.com/chema.cli/">Instagram</a>
 </p>
 
 
-My name I'm **ChemaCLi**. I'm a web developer. I do some backend. I'm trying to do my best to create virtual things to make the real things easier 🙂.
+I'm **ChemaCLi**. I'm a web developer. I do some backend. I do my best to create virtual tools to make the real live easier and enjoyable 🙂.
 
-- 🔭 I’m working on Mobile and Web apps with React and GraphQL
-- 🌱 I’m learning Hexagonal Architecture, TypeScript and NextJS
-- 😄 I want to develop an e-commerce, a Free Education Platform and my own portfolio...
-- 😅 I've some WIP posts on dev.to
+- 🔭 I’m working on REST and JS SDKs APIs development
+- 🌱 I’m learning System Design and Systems Architecture skills
+- 😄 I want to complete my Free Education Platform first version
+- ❤️ I want collaborate with OpenSource projects I love
+- ✏️ I've some WIP posts on dev.to
+
+Completed milestones:
+- Developed an E-commerce (backend and frontend) for a supermarket
+- Design the architecture, develop, guide other developers and orchestrate backend for a REST API for the supermarket web and mobile applications
+- Developed several internal tools for the 
 
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
